@@ -1,0 +1,2 @@
+Banco de dados é uma coleção de dados geralmente relacionados, vinculados, integrados ou referenciados a um outro
+enquanto o Sistema de Gerenciamento de Banco de Dados é uma coleção de dados inter-relacionados aliados a um conjunto de programas para acesssar esses dados. 
